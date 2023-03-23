@@ -2,6 +2,9 @@ Putih Testing
 -Putih jelek
  * :p
  * melet
+   >vue
 -Putih eu
 -Putih Lucu
+   >laravel
 -Putih Vlog
+-python
