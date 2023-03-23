@@ -4,6 +4,7 @@ Putih Testing
  * melet
    >vue
    >react
+   >angular
 -Putih eu
 -Putih Lucu
    >laravel
