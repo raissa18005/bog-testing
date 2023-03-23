@@ -2,5 +2,5 @@ Bogel Testing
 -Bogel gendut
 -Bogel kuning
 -Bogel pendek
--Bogel gemes
 -Bogel putih
+-Bogel vlog
