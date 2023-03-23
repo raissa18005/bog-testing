@@ -2,8 +2,10 @@ Putih Testing
 -Putih jelek
  * :p
  * melet
-   > angular
-   > react
+   >vue
+   >react
+-Putih eu
 -Putih Lucu
-   > laravel
+   >laravel
 -Putih Vlog
+-python
